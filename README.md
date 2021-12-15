@@ -1,5 +1,5 @@
-# Getting Started with Create React App
+# Spotify Player
+Spotify player created to work with a smart mirror or as a broswer widget
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Technologies Used
+  Spotify Api, React.js, Bootstrap
